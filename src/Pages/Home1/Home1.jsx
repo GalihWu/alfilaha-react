@@ -1,5 +1,5 @@
 import About from "../../Componant1/About/About";
-import Banner from "../../Componant1/Banner/Banner";
+import Banner from "../../Componant5/Banner/Banner";
 import Counter from "../../Componant1/Counter/Counter";
 import Project from "../../Componant1/Project/Project";
 import Service from "../../Componant1/Service/Service";

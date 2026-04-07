@@ -7,7 +7,7 @@ export default {
         AlbertSans: ["Albert Sans", "sans-serif"],
       },
       colors: {
-        PrimaryColor: ["#79b900"],
+        PrimaryColor: ["#0c7f6e"],
         SecondaryColor: ["#001819"],
         HeadingColor: ["#001819"],
         TextColor: ["#868681"],
